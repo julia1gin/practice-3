@@ -4,7 +4,7 @@
 ## ИСР
 ### [Задание 1.1](https://github.com/julia1gin/practice-3/blob/main/%D0%9F%D0%9F%D0%A2-3_%D0%98%D0%A1%D0%A0_1.1.pdf)
 ### [Задание 1.2](https://github.com/julia1gin/practice-3/blob/main/%D0%9F%D0%9F%D0%A2-3_%D0%98%D0%A1%D0%A0_1.2.pdf)
-### [Задание 1.3]()
+### [Задание 1.3](https://github.com/julia1gin/practice-3/blob/main/%D0%9F%D0%9F%D0%A2-3_%D0%98%D0%A1%D0%A0_1.3.pdf)
 
 ## ВСР
 ### [Задание 2.1](https://github.com/julia1gin/practice-3/blob/main/%D0%9F%D0%9F%D0%A2-2_%D0%92%D0%A1%D0%A0_2.1.pdf)
